@@ -1,0 +1,43 @@
+"Name","Programmer","Designer","PointnClick","DataOwner","SkillsR","SkillsPython","SkillsExcel","SkillsSQL","SkillsSpatial","SkillsD3","OfficeLocation","DataMessage","DataOnly","CodeVisualisations","PointnClickVisualisations","SpecificAudienceVis","GeneralPracticeVis"
+"Person 1","Programmer",NA,NA,"DataOwner","intermediate","beginner","expert","expert","intermediate","I don't use it","Other","DataMessage","DataOnly","CodeVisualisations",NA,NA,NA
+"Person 2","Programmer",NA,NA,NA,"intermediate","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Aberdeen",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 3","Programmer",NA,NA,NA,"expert","I don't use it","intermediate","intermediate","intermediate","beginner","Aberdeen",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 4","Programmer",NA,NA,NA,"intermediate","expert","expert","expert","I don't use it","I don't use it","Edinburgh",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 5",NA,NA,NA,"DataOwner","I don't use it","intermediate","intermediate","beginner","I don't use it","I don't use it","Edinburgh",NA,NA,NA,NA,"SpecificAudienceVis",NA
+"Person 6","Programmer",NA,NA,NA,"I don't use it","intermediate","intermediate","intermediate","expert","I don't use it","Aberdeen","DataMessage",NA,NA,NA,NA,NA
+"Person 7",NA,"Designer",NA,NA,"expert","I don't use it","intermediate","I don't use it","I don't use it","beginner","Other",NA,NA,NA,NA,NA,"GeneralPracticeVis"
+"Person 8",NA,NA,NA,"DataOwner","I don't use it","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Aberdeen",NA,NA,NA,NA,NA,"GeneralPracticeVis"
+"Person 9",NA,NA,"PointnClick",NA,"beginner","beginner","intermediate","intermediate","I don't use it","I don't use it","Edinburgh",NA,NA,NA,"PointnClickVisualisations",NA,NA
+"Person 10","Programmer",NA,NA,NA,"intermediate","I don't use it","intermediate","beginner","beginner","I don't use it","Aberdeen",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 11","Programmer",NA,NA,NA,"expert","beginner","expert","beginner","I don't use it","I don't use it","Edinburgh",NA,"DataOnly",NA,NA,NA,NA
+"Person 12",NA,NA,"PointnClick",NA,"I don't use it","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Dundee",NA,NA,NA,NA,NA,NA
+"Person 13","Programmer",NA,NA,NA,"intermediate","beginner","I don't use it","I don't use it","I don't use it","I don't use it","Edinburgh",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 14","Programmer",NA,NA,NA,"intermediate","beginner","I don't use it","beginner","I don't use it","I don't use it","Edinburgh",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 15",NA,NA,"PointnClick",NA,"I don't use it","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Dundee","DataMessage",NA,NA,NA,NA,NA
+"Person 16",NA,NA,NA,"DataOwner","I don't use it","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Dundee",NA,NA,NA,"PointnClickVisualisations",NA,NA
+"Person 17",NA,"Designer",NA,NA,"intermediate","I don't use it","intermediate","intermediate","intermediate","I don't use it","Aberdeen",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 18","Programmer",NA,NA,NA,"expert","I don't use it","intermediate","I don't use it","intermediate","intermediate","Edinburgh",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 19","Programmer",NA,NA,NA,"intermediate","I don't use it","intermediate","I don't use it","intermediate","I don't use it","Aberdeen",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 20","Programmer",NA,NA,NA,"intermediate","I don't use it","expert","I don't use it","I don't use it","I don't use it","Edinburgh","DataMessage",NA,NA,NA,NA,NA
+"Person 21","Programmer",NA,NA,NA,"expert","I don't use it","expert","I don't use it","I don't use it","I don't use it","Dundee",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 22",NA,NA,NA,"DataOwner","expert","intermediate","intermediate","beginner","I don't use it","I don't use it","Edinburgh",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 23",NA,NA,NA,"DataOwner","beginner","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Dundee",NA,"DataOnly",NA,NA,NA,NA
+"Person 24","Programmer","Designer",NA,"DataOwner","intermediate","expert","intermediate","intermediate","I don't use it","beginner","Dundee","DataMessage",NA,"CodeVisualisations","PointnClickVisualisations","SpecificAudienceVis","GeneralPracticeVis"
+"Person 25",NA,NA,NA,"DataOwner","beginner","intermediate","expert","intermediate","expert","beginner","Edinburgh",NA,NA,NA,NA,"SpecificAudienceVis",NA
+"Person 26","Programmer",NA,NA,NA,"beginner","beginner","intermediate","intermediate","I don't use it","beginner","Dundee",NA,"DataOnly",NA,NA,NA,NA
+"Person 27","Programmer",NA,NA,NA,"expert","beginner","intermediate","intermediate","expert","I don't use it","Edinburgh",NA,NA,"CodeVisualisations",NA,NA,"GeneralPracticeVis"
+"Person 28","Programmer",NA,NA,NA,"expert","expert","intermediate","intermediate","I don't use it","intermediate","Dundee",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 29","Programmer","Designer",NA,NA,"beginner","I don't use it","intermediate","intermediate","I don't use it","beginner","Dundee",NA,NA,NA,NA,"SpecificAudienceVis","GeneralPracticeVis"
+"Person 30",NA,NA,NA,"DataOwner","intermediate","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Dundee",NA,NA,NA,"PointnClickVisualisations",NA,NA
+"Person 31","Programmer",NA,NA,NA,"intermediate","I don't use it","intermediate","beginner","I don't use it","I don't use it","Other",NA,NA,NA,NA,NA,NA
+"Person 32",NA,NA,"PointnClick",NA,"I don't use it","I don't use it","intermediate","I don't use it","beginner","I don't use it","Aberdeen",NA,NA,NA,"PointnClickVisualisations","SpecificAudienceVis",NA
+"Person 33",NA,NA,NA,NA,"intermediate","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Dundee",NA,NA,NA,NA,"SpecificAudienceVis",NA
+"Person 34","Programmer",NA,NA,NA,"beginner","beginner","intermediate","expert","intermediate","intermediate","Dundee",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 35",NA,NA,NA,"DataOwner","beginner","I don't use it","expert","I don't use it","I don't use it","I don't use it","Dundee",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 36",NA,NA,NA,"DataOwner","beginner","beginner","intermediate","intermediate","I don't use it","beginner","Other",NA,NA,NA,NA,NA,"GeneralPracticeVis"
+"Person 37","Programmer",NA,NA,NA,"intermediate","beginner","intermediate","I don't use it","I don't use it","I don't use it","Edinburgh",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 38",NA,NA,NA,"DataOwner","intermediate","I don't use it","intermediate","beginner","I don't use it","I don't use it","Dundee",NA,NA,"CodeVisualisations",NA,NA,NA
+"Person 39",NA,NA,NA,"DataOwner","expert","beginner","intermediate","beginner","beginner","I don't use it","Dundee",NA,NA,NA,NA,"SpecificAudienceVis",NA
+"Person 40","Programmer",NA,NA,NA,"expert","intermediate","intermediate","I don't use it","I don't use it","I don't use it","Edinburgh",NA,"DataOnly",NA,NA,NA,NA
+"Person 41",NA,NA,"PointnClick",NA,"I don't use it","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Dundee",NA,NA,NA,NA,NA,NA
+"Person 42",NA,NA,NA,NA,"I don't use it","I don't use it","intermediate","I don't use it","I don't use it","I don't use it","Aberdeen",NA,NA,NA,NA,NA,NA
