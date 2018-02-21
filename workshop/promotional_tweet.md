@@ -1,0 +1,1 @@
+Network analysis is a great method for examining how resources move between points, or how different actors are bound together by common ties. Attend our free workshop to learn how to apply network analyis in your industry: https://www.eventbrite.co.uk/e/social-network-analysis-workshop-tickets-42123071240
