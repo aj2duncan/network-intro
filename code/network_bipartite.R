@@ -9,7 +9,7 @@ library(tidyverse)
 library(RColorBrewer)
 library(igraph)
 
-df = read_csv("~/repo/network-intro/data/dummy_data.csv")
+df = read_csv("~/data/dummy_data.csv")
 
 pal = brewer.pal(5, "Dark2")
 
@@ -35,10 +35,10 @@ y = df %>%
    setNames(c("name", "size")) %>% 
    mutate(size=2 + 12 * size/max(size))
 
-x = data.frame(name=unique(df_edges$skill), color=sefari[3],
+x = data.frame(name=unique(df_edges$skill), color=pal[3],
                label.cex=0.9)
 x = left_join(x, y)
-y = data.frame(name=unique(df_edges$Name), color=sefari[4], size=5,
+y = data.frame(name=unique(df_edges$Name), color=pal[4], size=5,
                label.cex=0.7)
 
 df_graph = graph.data.frame(df_edges[, c("Name", "skill", "width", "color")],
